@@ -1,0 +1,25 @@
+body {
+    font-family : "Georgia", "Times New Roman", serif;
+    line-height: 1.6;
+    margin: 20px;
+    max-width: 800px;
+}
+
+h1 {
+    color: #1c3d4d;
+}
+
+p {
+    text-align: justify
+}
+
+a {
+    text-decoration: underline;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px 0;
+}
